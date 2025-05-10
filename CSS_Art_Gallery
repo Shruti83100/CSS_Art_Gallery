@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🎨 CSS Art Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>🎨 Pure CSS Art Gallery</h1>
+    <p>All art created with only HTML & CSS — no images, no JavaScript!</p>
+  </header>
+
+  <main class="gallery">
+    <figure class="art-piece">
+      <div class="smiley"></div>
+      <figcaption>😊 Smiley Face — by Shruti</figcaption>
+    </figure>
+  </main>
+
+  <footer>
+    <p>Made with ❤️ and pure CSS by Shruti Banerjee</p>
+  </footer>
+</body>
+</html>
